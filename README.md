@@ -14,16 +14,20 @@ A modern, lightweight task management application built with Node.js, Express.js
 
 ## 📋 Table of Contents
 
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [API Documentation](#api-documentation)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Authentication](#authentication)
-- [Usage Examples](#usage-examples)
-- [Development](#development)
-- [Contributing](#contributing)
+- [Features](#-features)
+- [Getting Started](#️-getting-started)
+- [Configuration](#️-configuration)
+- [API Documentation](#-api-documentation)
+- [Project Structure](#-project-structure)
+- [API Endpoints](#-api-endpoints)
+- [Authentication](#-authentication)
+- [Usage Examples](#-usage-examples)
+- [Development](#-development)
+- [Architecture](#️-architecture)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Future Enhancements](#-future-enhancements)
+- [Support](#-support)
 
 ## 🛠️ Getting Started
 
